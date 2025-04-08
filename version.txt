@@ -1,7 +1,0 @@
-VERSION = 2.0
-UPDATE = true
-CHANGELOG:
-- Fixed Auto-Updater at Main function
-- Added reload script command
-- Added Helper Roster
-	- With Status
