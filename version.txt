@@ -1,7 +1,7 @@
-VERSION = 2.7
+VERSION = 2.8
 UPDATE = true
 CHANGELOG:
-Version 2.7:
+Version 2.8:
     - Added fastquit function ( Easier to quit the game )
     - Adjusted Helper Roster
         - Fixed Accessibility of roles
@@ -12,8 +12,8 @@ Version 2.7:
             - Toggle Notification Sound
             - Added Duration
             - Added Count per Notifications ( Exg: 2 - 5 shown notifications at the side )
-	- Fixed Minor Bugs
-
+    - Fixed Helper Management Accessibility
+    - Fixed Minor Bugs
 Version 2.7:
     - Fixed Auto-Updater at Main function
     - Fixed Notification once updated
